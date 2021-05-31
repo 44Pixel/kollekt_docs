@@ -1,16 +1,16 @@
 ---
 title: Introduction
-description: ''
+description: ""
 position: 1
-category: ''
+category: ""
 features:
   - Feature 1
   - Feature 2
   - Feature 3
 ---
 
-<img src="/preview.png" class="light-img" width="1280" height="640" alt=""/>
-<img src="/preview-dark.png" class="dark-img" width="1280" height="640" alt=""/>
+<img src="/gh-pages/preview.png" class="light-img" width="1280" height="640" alt=""/>
+<img src="/gh-pages/preview-dark.png" class="dark-img" width="1280" height="640" alt=""/>
 
 [Module]() for [NuxtJS](https://nuxtjs.org).
 
