@@ -3,11 +3,30 @@ title: Jobs
 description: ""
 position: 1001
 category: "SELECT"
+assignmentTypes:
+  [
+    Direct assign (A),
+    Inherit from Ancestor (B),
+    Inherit from Team (C),
+    Inherit from Team which has been added to Ancestor (D),
+  ]
 ---
 
 What is job's?
 
 Jobs for teams discussion ([read here](https://app.clubhouse.io/kollekt/story/10008/jobs-for-teams))
+
+## Determining a user's job
+
+For now user can have 4 kind of assignment to selection
+
+<list :items="assignmentTypes"></list>
+
+The priority is:
+
+```
+B > D > A > C
+```
 
 ## Jobs from teams
 
