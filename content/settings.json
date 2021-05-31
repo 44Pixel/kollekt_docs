@@ -1,0 +1,10 @@
+{
+  "title": "Kollekt Docs",
+  "url": "docs.kollekt.dk",
+  "logo": {
+    "light": "/logo-light.svg",
+    "dark": "/logo-dark.svg"
+  },
+  "github": "David-44Pixel/kollekt_docs",
+  "twitter": "@nuxt_js"
+}
