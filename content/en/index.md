@@ -9,8 +9,8 @@ Kollekt is an ever expanding product suite, aiming to be your #1 toll for fashio
 
 <div id="select" class="mb-32">
 
-<img src="/logo/logo_select_white-on-blue.svg" class="light-img w-32" alt="Logo light" />
-<img src="/logo/logo_select_blue-on-white.svg" class="dark-img w-32" alt="Logo dark" />
+<img src="/kollekt-docs/logo/logo_select_white-on-blue.svg" class="light-img w-32" alt="Logo light" />
+<img src="/kollekt-docs/logo/logo_select_blue-on-white.svg" class="dark-img w-32" alt="Logo dark" />
 
 ### Kollekt SELECT
 
@@ -22,8 +22,8 @@ Select is our first tool, that helps top fashion brands collaborate on new colle
 
 <div id="buy" class="mb-32">
 
-<img src="/logo/logo_kollekt-buy_white-on-blue.svg" class="light-img w-32" alt="Logo light" />
-<img src="/logo/logo_kollekt-buy_blue-on-white.svg" class="dark-img w-32" alt="Logo dark" />
+<img src="/kollekt-docs/logo/logo_kollekt-buy_white-on-blue.svg" class="light-img w-32" alt="Logo light" />
+<img src="/kollekt-docs/logo/logo_kollekt-buy_blue-on-white.svg" class="dark-img w-32" alt="Logo dark" />
 
 ### Kollekt BUY
 
@@ -35,8 +35,8 @@ Select is our first tool, that helps top fashion brands collaborate on new colle
 
 <div id="play" class="mb-32">
 
-  <img src="/logo/logo_kollekt-play_white-on-blue.svg" class="light-img w-32" alt="Logo light" />
-  <img src="/logo/logo_kollekt-play_blue-on-white.svg" class="dark-img w-32" alt="Logo dark" />
+  <img src="/kollekt-docs/logo/logo_kollekt-play_white-on-blue.svg" class="light-img w-32" alt="Logo light" />
+  <img src="/kollekt-docs/logo/logo_kollekt-play_blue-on-white.svg" class="dark-img w-32" alt="Logo dark" />
 
 ### Kollekt PLAY
 
