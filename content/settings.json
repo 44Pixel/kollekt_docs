@@ -2,8 +2,8 @@
   "title": "Kollekt Docs",
   "url": "https://pages.github.com/44Pixel/kollekt_docs/",
   "logo": {
-    "light": "/kollekt-docs/logo/logo_kollekt_blue.svg",
-    "dark": "/kollekt-docs/logo/logo_kollekt_white.svg"
+    "light": "/kollekt_docs/logo/logo_kollekt_blue.svg",
+    "dark": "/kollekt_docs/logo/logo_kollekt_white.svg"
   },
   "github": "44Pixel/kollekt_docs",
   "defaultBranch": "master",
