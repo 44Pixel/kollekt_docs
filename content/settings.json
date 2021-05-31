@@ -1,10 +1,9 @@
 {
   "title": "Kollekt Docs",
-  "url": "docs.kollekt.dk",
+  "url": "https://pages.github.com/44Pixel/kollekt_docs/",
   "logo": {
     "light": "/logo-light.svg",
     "dark": "/logo-dark.svg"
   },
-  "github": "David-44Pixel/kollekt_docs",
-  "twitter": "@nuxt_js"
+  "github": "44Pixel/kollekt_docs"
 }
