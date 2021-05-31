@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 const options = {"workboxURL":"https://cdn.jsdelivr.net/npm/workbox-cdn@5.1.4/workbox/workbox-sw.js","importScripts":[],"config":{"debug":false},"cacheOptions":{"cacheId":"kollekt_docs-prod","directoryIndex":"/","revision":"N2lIKAAir0j2"},"clientsClaim":true,"skipWaiting":true,"cleanupOutdatedCaches":true,"offlineAnalytics":false,"preCaching":[{"revision":"N2lIKAAir0j2","url":"/kollekt_docs/?standalone=true"}],"runtimeCaching":[{"urlPattern":"/kollekt_docs/_nuxt/","handler":"CacheFirst","method":"GET","strategyPlugins":[]},{"urlPattern":"/kollekt_docs/","handler":"NetworkFirst","method":"GET","strategyPlugins":[]}],"offlinePage":null,"pagesURLPattern":"/kollekt_docs/","offlineStrategy":"NetworkFirst"}
+=======
+const options = {"workboxURL":"https://cdn.jsdelivr.net/npm/workbox-cdn@5.1.4/workbox/workbox-sw.js","importScripts":[],"config":{"debug":false},"cacheOptions":{"cacheId":"kollekt_docs-prod","directoryIndex":"/","revision":"R3VrD1fjoHbq"},"clientsClaim":true,"skipWaiting":true,"cleanupOutdatedCaches":true,"offlineAnalytics":false,"preCaching":[{"revision":"R3VrD1fjoHbq","url":"/kollekt_docs/?standalone=true"}],"runtimeCaching":[{"urlPattern":"/kollekt_docs/_nuxt/","handler":"CacheFirst","method":"GET","strategyPlugins":[]},{"urlPattern":"/kollekt_docs/","handler":"NetworkFirst","method":"GET","strategyPlugins":[]}],"offlinePage":null,"pagesURLPattern":"/kollekt_docs/","offlineStrategy":"NetworkFirst"}
+>>>>>>> a0c93423c597139cf25ad1253e53e7aeaa84d993
 
 importScripts(...[options.workboxURL, ...options.importScripts])
 

@@ -1,3 +1,19 @@
+<<<<<<< HEAD
+=======
+/*!
+ * vue-client-only v2.0.0
+ * (c) 2019-present egoist <0x142857@gmail.com>
+ * Released under the MIT License.
+ */
+
+/*!
+ * vue-no-ssr v1.1.1
+ * (c) 2018-present egoist <0x142857@gmail.com>
+ * Released under the MIT License.
+ */
+
+
+>>>>>>> a0c93423c597139cf25ad1253e53e7aeaa84d993
 /*! @docsearch/js 1.0.0-alpha.28 (UNRELEASED 0a58769) | MIT License | © Algolia, Inc. and contributors | https://github.com/francoischalifour/autocomplete.js */
 
 
@@ -36,6 +52,7 @@
 
 
 /*!
+<<<<<<< HEAD
  * vue-client-only v2.0.0
  * (c) 2019-present egoist <0x142857@gmail.com>
  * Released under the MIT License.
@@ -49,6 +66,8 @@
 
 
 /*!
+=======
+>>>>>>> a0c93423c597139cf25ad1253e53e7aeaa84d993
  * clipboard.js v2.0.8
  * https://clipboardjs.com/
  *
