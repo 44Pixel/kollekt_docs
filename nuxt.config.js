@@ -6,6 +6,6 @@ export default theme({
   },
   target: 'static',
   router: {
-    base: '/kollekt_docs/'
+    // base: '/kollekt_docs/'
   }
 })
