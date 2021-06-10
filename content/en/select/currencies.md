@@ -7,8 +7,8 @@ currencyPlaces:
   ["Workspace currency", "Selection currency", "User currency", "Team currency"]
 currencyPriority:
   [
-    "Selection currency",
     "User currency",
+    "Selection currency",
     "Workspace currency",
     "First available currency on the product",
   ]
@@ -46,3 +46,5 @@ A user can have a different default currency on their different workspaces.
 
 The shown currency is the first available currency on the product, following the priority below:
 <list :items="currencyPriority">
+
+If no _User currency_ is set, the _Selection currency_ is used, etc.
